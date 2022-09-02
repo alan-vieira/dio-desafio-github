@@ -1,7 +1,3 @@
-# dio-desafio-github
-Desafio de Projeto sobre Git/GitHub
-
-
 # Desafio DIO para Criação do Primeiro Repositório GitHub
 ## Descrição do projeto
 
