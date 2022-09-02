@@ -14,10 +14,30 @@
 
 ## Aplicação
 
+Passo 1: Criação do novo repositório do GitHub
+
 ![Criação do repositório](./img/novo_repositorio_v2.JPG)
+
+
+Passo 2: Clonagem do novo repositório
+
 ![Clonagem do repositório](./img/clonagem_projeto.JPG)
-![Magic Preço Médio](./img/gif_rapido.gif)
-![Magic Preço Médio](./img/gif_rapido.gif)
+
+Passo 3: Abrir o gitbash dentro da pasta que receberá o repositóri clonado e executar o comando de clonagem.
+
+```bash
+git clone https://github.com/alan-vieira/dio-desafio-github-primeiro-repositorio.git
+```
+![Clonagem do repositório: comando git](./img/clonagem_execucao.JPG)
+
+Passo 4: Após algumas alterações realizadas nos arquivos contidos no repositório clonado, execute o comendo git status para constatar tais mudanças.
+
+```bash
+git status
+```
+![status](./img/status.JPG)
+
+
 ![Magic Preço Médio](./img/gif_rapido.gif)
 ![Magic Preço Médio](./img/gif_rapido.gif)
                                                                                                        
