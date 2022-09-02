@@ -30,17 +30,34 @@ git clone https://github.com/alan-vieira/dio-desafio-github-primeiro-repositorio
 ```
 ![Clonagem do repositório: comando git](./img/clonagem_execucao.JPG)
 
-Passo 4: Após algumas alterações realizadas nos arquivos contidos no repositório clonado, execute o comendo git status para constatar tais mudanças.
+Passo 4: Após algumas alterações realizadas nos arquivos contidos no repositório clonado, execute o comando git status para constatar tais mudanças.
 
 ```bash
 git status
 ```
 ![status](./img/status.JPG)
 
+Passo 5: Para marcar todos os arquivos que serão monitorados na pasta, execute o comando git add.
 
-![Magic Preço Médio](./img/gif_rapido.gif)
-![Magic Preço Médio](./img/gif_rapido.gif)
-                                                                                                       
+```bash
+git add .
+```
+![add](./img/add.JPG)
+
+Passo 6: Para adicionar um comentário nos arquivos que foram modificados, exexute o comando git commit, seguido do comentário entre aspas.
+```bash
+git commit -m "Inclusão das anotações do curso de Git/GitHub"
+```
+
+![commit](./img/commit.JPG)
+
+Passo 7: Para enviar os arquivos atualizados para o repositório remoto no GitHub, execute o comento git push.
+
+```bash
+git push origin main
+```    
+![commit](./img/envio_repositorio.JPG)
+
 ## Ferramentas utilizadas
 - `Git`
 - `GitHub`
