@@ -14,7 +14,13 @@
 
 ## Aplicação
 
-                                                                                                            
+![Criação do repositório](./img/novo_repositorio_v2.JPG)
+![Clonagem do repositório](./img/clonagem_projeto.JPG)
+![Magic Preço Médio](./img/gif_rapido.gif)
+![Magic Preço Médio](./img/gif_rapido.gif)
+![Magic Preço Médio](./img/gif_rapido.gif)
+![Magic Preço Médio](./img/gif_rapido.gif)
+                                                                                                       
 ## Ferramentas utilizadas
 - `Git`
 - `GitHub`
